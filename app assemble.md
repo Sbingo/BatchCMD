@@ -4,9 +4,20 @@
 
 打补丁也可以这么玩……
 
-自己写了个bat文件
+以下来自我写的bat文件
 
 ###效果
+初始画面
+
+![image](https://github.com/Sbingo/BatchCMD/raw/master/png/g1.png)
+
+打包失败
+
+![image](https://github.com/Sbingo/BatchCMD/raw/master/png/g2.png)
+
+打包成功
+
+![image](https://github.com/Sbingo/BatchCMD/raw/master/png/g3.png)
 
 ####命令：
 @echo off
